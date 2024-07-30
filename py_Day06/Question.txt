@@ -1,9 +1,0 @@
-Day06 Topic= Regular expression in strings
-Question no 1
-Write a Python program that uses regular expressions to search for a specific word within a given string. The program should:
-
-Import the re module.
-Define a string variable containing the text to search within.
-Define a regular expression pattern for the word to search.
-Use the re.search() function to check if the word exists in the string.
-Print "word found" if the word is found, otherwise print "word not found".
